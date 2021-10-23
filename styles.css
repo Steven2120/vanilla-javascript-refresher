@@ -1,0 +1,34 @@
+html {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15vh;
+    font-size: 2em;
+    border: .5px solid royalblue;
+}
+
+.links {
+    color: red;
+}
+
+.body {
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+    height: 10%;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.result {
+    font-size: 3em;
+}
